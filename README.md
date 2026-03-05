@@ -4,16 +4,16 @@
 
 ### Strollmon - Walk Your Pet
 - Description
-- [itch.io]{https://nakkivene.itch.io/strollmon-walk-your-pet}
+- [itch.io](https://nakkivene.itch.io/strollmon-walk-your-pet)
 
 ### Disfigured
 - Description
-- [itch.io]{https://dorcorpstudio.itch.io/disfigured}
+- [itch.io](https://dorcorpstudio.itch.io/disfigured)
 
 ### Heel the rhythm
 - Description
-- [itch.io]{https://nakkivene.itch.io/heel-the-rhythm}
+- [itch.io](https://nakkivene.itch.io/heel-the-rhythm)
 
 ### Dress to Impress - Aliens
 - Description
-- [itch.io]{https://realkam1.itch.io/dress-to-impress-aliens}
+- [itch.io](https://realkam1.itch.io/dress-to-impress-aliens)
