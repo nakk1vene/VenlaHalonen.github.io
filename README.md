@@ -2,18 +2,18 @@
 
 ## Projects
 
-### Project 1
+### Strollmon - Walk Your Pet
 - Description
-- Links
+- [itch.io]{https://nakkivene.itch.io/strollmon-walk-your-pet}
 
-### Project 2
+### Disfigured
 - Description
-- Links
+- [itch.io]{https://dorcorpstudio.itch.io/disfigured}
 
-### Project 3
+### Heel the rhythm
 - Description
-- Links
+- [itch.io]{https://nakkivene.itch.io/heel-the-rhythm}
 
-### Project 4
+### Dress to Impress - Aliens
 - Description
-- Links
+- [itch.io]{https://realkam1.itch.io/dress-to-impress-aliens}
