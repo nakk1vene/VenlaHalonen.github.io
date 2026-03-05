@@ -1,7 +1,8 @@
 # VenlaHalonen.github.io
 
 ## Projects
-###Project 1
+
+### Project 1
 - Description
 - Links
 
